@@ -1,6 +1,5 @@
 ---
-type: service_template
-subtype: container
+type: container
 name: hello-world
 description: Echo Hello World!
 
